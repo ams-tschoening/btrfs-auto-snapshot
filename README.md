@@ -3,6 +3,8 @@ btrfs-auto-snapshot
 
 BTRFS Automatic Snapshot Service for Linux
 
+
+
 Usage
 -----
 <pre>
@@ -34,7 +36,7 @@ https://github.com/hunleyd/btrf-auto-snapshot/issues
 
 Twitter
 -------
-Keep up to date on announcements and more by following Doug on Twitter, 
+Keep up to date on announcements and more by following Doug on Twitter,
 <a href="http://twitter.com/hunleyd">@hunleyd</a>
 
 Authors
